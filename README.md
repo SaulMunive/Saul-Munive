@@ -35,7 +35,7 @@ Pipeline end-to-end de datos de logística sobre **Azure**, con arquitectura Med
 - Pipeline orquestado en ADF con Copy Activities parametrizados, notebooks de transformación, deduplicación con Window Functions, `MERGE INTO` para cargas incrementales y Delta Time Travel.
 - Modelo semántico y reporte en Power BI conectado vía Direct Lake sobre Fabric.
 
-#### 🔹 [RetailFast — Monitoreo de transacciones en tiempo real (GCP)](https://github.com/SaulMunive)
+#### 🔹 [RetailFast — Monitoreo de transacciones en tiempo real (GCP)](https://github.com/SaulMunive/retailfast-realtime-pubsub-bigquery)
 Sistema de streaming de eventos para detección de transacciones en tiempo real usando **Google Cloud**.
 - **Stack:** Pub/Sub, BigQuery, Python.
 - Publicación de eventos vía Pub/Sub con suscripción directa hacia BigQuery, sin intermediarios, siguiendo patrones de ingesta orientados a producción.
