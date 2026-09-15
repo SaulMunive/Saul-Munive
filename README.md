@@ -64,4 +64,9 @@ Agente conversacional que permite consultar datos de analítica web en lenguaje 
   <a href="https://www.linkedin.com/in/saul-munive-ruiz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:saul.munive@pucp.pe">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+📧 saul.munive@pucp.pe &nbsp;|&nbsp; 📱 +51 951 464 061
