@@ -18,7 +18,7 @@
 ### 🧭 Sobre mí
 
 - 🎓 Ingeniero Industrial por la **Pontificia Universidad Católica del Perú (PUCP)**
-- 📜 **Diploma en Advanced Data Engineer**, con proyectos aplicados en Azure y GCP
+- 📜 **Diploma en Advanced Data Engineer**, con proyectos aplicados en Azure, GCP y AWS
 - 🚀 Actualmente preparándome para la certificación **Databricks Certified Data Engineer Associate**
 - 🔎 También en preparación para el examen **DP-700 (Microsoft Fabric Data Engineer Associate)**
 - 💼 Experiencia previa en Business Intelligence / Data Analytics, trabajando con Power BI, SQL, Python y plataformas cloud (Azure, GCP, AWS)
